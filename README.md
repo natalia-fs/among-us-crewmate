@@ -7,7 +7,7 @@ Um dos projetos que mais gostei de fazer, com toda a certeza. Aprendi alguns det
 O desenho do tripulante foi feito seguindo a Speed Art disponível [aqui](https://youtu.be/JDI0zz2Waqw). Aproveitei e acrescentei a seleção de cor do tripulante para me desafiar.
 
 ## Preview
-
+[Acesse aqui](amongus-nataliafs.netlify.app)
 ![Preview](./src/assets/preview.jpg)
 ___
 
