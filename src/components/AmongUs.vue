@@ -113,7 +113,7 @@ export default {
     display: flex;
   }
   .view{
-    background-image: url("https://i.redd.it/2obw9yylddr51.jpg");
+    background-image: url("../assets/background.jpg");
     background-size: contain;
   }
   .pallet{
