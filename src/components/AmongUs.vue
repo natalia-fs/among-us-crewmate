@@ -74,7 +74,7 @@ export default {
 :root{
   --color: '#c51111'
 }
-@media (max-device-width: 520px ){
+@media (max-width: 520px ){
   .main{
     flex-direction: column-reverse;
   }
