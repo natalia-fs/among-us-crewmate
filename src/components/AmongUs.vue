@@ -2,7 +2,7 @@
   <div class="main">
     <div class="config">
 
-      <div class="pallet">
+      <div class="palette">
         <div
           v-for="item in colors"
           class="color"
@@ -116,7 +116,7 @@ export default {
     background-image: url("../assets/background.jpg");
     background-size: contain;
   }
-  .pallet{
+  .palette{
     background-color: #9fbba2;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -155,7 +155,7 @@ export default {
     padding: 1rem;
     display: flex;
   }
-  .pallet{
+  .palette{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: .6rem;
     width: 100%;
